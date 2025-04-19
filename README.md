@@ -2,27 +2,49 @@
 
 ## Direktori
 ├── class/              # Folder berisi class-class utama (model)
+
 │   ├── Produk.php      # Class untuk mengelola data produk
+
 │   ├── Review.php      # Class untuk mengelola data review
+
 │   └── Users.php       # Class untuk mengelola data pengguna
+
 ├── config/             # Folder konfigurasi
+
 │   └── config.php      # File konfigurasi utama dan koneksi database
+
 ├── view/               # Folder berisi tampilan/view
+
 │   ├── add_produk.php      # Form tambah produk
+
 │   ├── add_review.php      # Form tambah review
+
 │   ├── add_users.php       # Form tambah user
+
 │   ├── delete_produk.php   # Proses hapus produk
+
 │   ├── delete_review.php   # Proses hapus review
+
 │   ├── delete_users.php    # Proses hapus user
+
 │   ├── footer.php          # Footer untuk semua halaman
+
 │   ├── header.php          # Header untuk semua halaman
+
 │   ├── produk.php          # Tampilan daftar produk
+
 │   ├── review.php          # Tampilan daftar review
+
 │   ├── update_produk.php   # Form update produk
+
 │   ├── update_review.php   # Form update review
+
 │   ├── update_users.php    # Form update user
+
 │   └── users.php           # Tampilan daftar users
+
 ├── index.php           # Halaman utama
+
 └── style.css           # File CSS untuk styling
 
 ## Alur Program
