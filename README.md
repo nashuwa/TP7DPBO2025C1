@@ -74,3 +74,16 @@ Database: Koneksi database diatur dalam config/config.php menggunakan PDO.
   - Menambah user baru
   - Mengubah data user
   - Menghapus user
+
+## Tampilan
+
+![Screenshot 2025-04-19 201700](https://github.com/user-attachments/assets/1a55cf21-1d9a-4bdf-bc17-0c11dfb9ff5a)
+
+![Screenshot 2025-04-19 201708](https://github.com/user-attachments/assets/9149e789-9b5b-4857-88ef-4ad94ff55bf1)
+
+![Screenshot 2025-04-19 201720](https://github.com/user-attachments/assets/30aeeb63-f01e-4e4c-87d8-22a350796894)
+
+
+
+
+
